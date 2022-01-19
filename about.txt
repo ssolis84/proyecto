@@ -4,4 +4,5 @@ Ciudad: Ambato
 
 
 
-
+Version 2
+Los estudiantes participan animicamente en la clase de Calidad y POO
